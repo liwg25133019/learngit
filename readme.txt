@@ -20,3 +20,4 @@ creating a new branch is quick AND simple
 modify for test merge
 
 stash list
+stash list
